@@ -8,5 +8,6 @@
 + **ZSH Theme**: [Starship](https://starship.rs/)
 + **Terminal**: Alacritty
 + **Font**: [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
++ **Theme**: [Juno Ocean](https://www.gnome-look.org/p/1280977/)
 
 **Dependencies**: Pywal, Alacritty, Vim, Vimplug, Dunst, I3-gaps, Picom (Ibhagwan Version), Rofi, Polybar, Zsh, Ohmyzsh, Starship

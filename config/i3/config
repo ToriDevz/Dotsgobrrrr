@@ -6,14 +6,10 @@ font pango:JetBrains Mono 12px
 
 exec --no-startup-id picom 
 exec --no-startup-id ~/.config/polybar/start.sh
-exec --no-startup-id nm-applet
-exec --no-startup-id feh --bg-fill ~/Wallpapers-Full/Wallpapers/wall.jpg
+exec --no-startup-id feh --bg-fill ~//Wallpapers/wall.jpg
 exec --no-startup-id setxkbmap gb
-exec --no-startup-id /opt/monitor.sh
 exec --no-startup-id dunst 
-exec --no-startup-id wal -i ~/Wallpapers-Full/Wallpapers/wall.jpg >/dev/null 2>&1
-exec --no-startup-id ckb-next &
-exec --no-startup-id lxpolkit &
+exec --no-startup-id wal -i ~/Wallpapers/wall.jpg >/dev/null 2>&1
 
 # Audio shit idk i skidded this part
 

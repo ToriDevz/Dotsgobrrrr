@@ -7,3 +7,4 @@
 + **Bar Launcher**: Polybar
 + **ZSH Theme**: [Starship](https://starship.rs/)
 + **Terminal**: Alacritty
++ **Font**: [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)

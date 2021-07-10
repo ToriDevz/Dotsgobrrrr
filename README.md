@@ -9,4 +9,4 @@
 + **Terminal**: Alacritty
 + **Font**: [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
 
-**Dependencies**: Pywal, Alacritty, Vim, Vimplug, Dunst, I3-gaps, Picom (Ibhagwan Version), Rofi, Polybar
+**Dependencies**: Pywal, Alacritty, Vim, Vimplug, Dunst, I3-gaps, Picom (Ibhagwan Version), Rofi, Polybar, Zsh, Ohmyzsh, Starship

@@ -24,14 +24,6 @@ offset-x = 24px
 width = 104px
 background = ${cols.accent_light}
 
-[bar/centre]
-inherit=bar/root
-background = ${cols.background}
-width = 400px
-modules-center = spotify 
-offset-x = 50%:-200px
-tray-position = left
-
 [bar/right]
 monitor=HDMI-1
 inherit=bar/root
